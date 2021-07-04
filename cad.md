@@ -5,6 +5,7 @@
 | Software | Description                                                                                      | Website                            |
 | -------- | ------------------------------------------------------------------------------------------------ | ---------------------------------- |
 | KiCad    | Cross Platform, Open Source Electronics Design Automation Suite. Create schematics, PCB layouts. | [kicad.org](https://www.kicad.org) |
+| Easy EDA | Free (online) PCB design tool                                                                    | [easyeda.com](https://easyeda.com) |
 
 ## Model Design
 
