@@ -19,3 +19,9 @@
 | Service   | Website                              | Description                                      | Country       |
 | --------- | ------------------------------------ | ------------------------------------------------ | ------------- |
 | tresorit  | [tresorit.com](https://tresorit.com) | Multi OS, encrypted cloud storage & file sharing | Europe, Swiss |
+
+### Communication
+
+| Software | Description                                                             | Website                          |
+| -------- | ----------------------------------------------------------------------- | -------------------------------- |
+| Matrix   | Open Source standard for secure, decentralised, real-time communication | [matrix.org](https://matrix.org) |
