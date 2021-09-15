@@ -22,6 +22,6 @@
 
 ### Communication
 
-| Software | Description                                                             | Website                          |
-| -------- | ----------------------------------------------------------------------- | -------------------------------- |
-| Matrix   | Open Source standard for secure, decentralised, real-time communication | [matrix.org](https://matrix.org) |
+| Software | Description                                                             | Website            |
+| -------- | ----------------------------------------------------------------------- | ------------------ |
+| Matrix   | Open Source standard for secure, decentralised, real-time communication | https://matrix.org |
