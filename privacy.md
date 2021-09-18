@@ -7,6 +7,7 @@ Privacy protection services.
 | Service        | Description                                                    | Website                   |
 | -------------- | -------------------------------------------------------------- | ------------------------- |
 | Privacy Guides | Provides services, tools and knowledge to protect your privacy | https://privacyguides.org |
+| Privacy Tools  | Provides services, tools and knowledge to protect your privacy | https://privacytools.io   |
 
 ## Email
 
