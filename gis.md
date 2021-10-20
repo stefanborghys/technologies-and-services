@@ -2,9 +2,9 @@
 
 ## Software
 
-| Software | Description                                                                                        | Website                          |
-| -------- | -------------------------------------------------------------------------------------------------- | -------------------------------- |
-| QGIS     | Cross platform, Open Source Geographic Information System for management of geospatial information | [qgis.org](https://www.qgis.org) |
+| Software | Description                                                                                        | Website              |
+| -------- | -------------------------------------------------------------------------------------------------- | -------------------- |
+| QGIS     | Cross platform, Open Source Geographic Information System for management of geospatial information | https://www.qgis.org |
 
 ## OSM - Open Street Maps
 

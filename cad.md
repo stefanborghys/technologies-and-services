@@ -9,7 +9,7 @@
 
 ## Model Design
 
-| Software | Description                                                    | Website                    |
-| -------- | -------------------------------------------------------------- | -------------------------- |
+| Software | Description                                                   | Website                    |
+| -------- | ------------------------------------------------------------- | -------------------------- |
 | FreeCAD  | Open Source parametric 3D modeler to design real-life objects | https://www.freecadweb.org |
 | OpensCAD | Programmable 3D CAD Modeller | https://openscad.org |

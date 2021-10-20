@@ -2,6 +2,6 @@
 
 ## Services
 
-| Service   | Description                  | Website                                |
-| :-------- | :--------------------------- | -------------------------------------: |
-| Bitwarden | Open Source Password Manager | [bitwarden.com](https://bitwarden.com) |
+| Service   | Description                  | Website               |
+| :-------- | :--------------------------- | --------------------: |
+| Bitwarden | Open Source Password Manager | https://bitwarden.com |

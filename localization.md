@@ -1,5 +1,5 @@
 # Localization
 
-| Software | Description                         | Website                            |
-| -------- | ----------------------------------- | ---------------------------------- |
-| Crowdin  | Cloud based localization management | [crowdin.com](https://crowdin.com) |
+| Software | Description                         | Website             |
+| -------- | ----------------------------------- | ------------------- |
+| Crowdin  | Cloud based localization management | https://crowdin.com |
