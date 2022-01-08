@@ -15,3 +15,13 @@
 | Sense              | Monitor energy use and solar production | https://sense.com                                                    |
 | IAmMeter           | Single fase power meter                 | https://nl.iammeter.com/products/single-phase-meter                  |
 | Shelly - EM        | Monitor energy use and solar production | https://shelly.cloud/products/shelly-em-smart-home-automation-device |
+
+## Smart Home
+
+| Product | Description                                                                   | Website                 |
+| ------- | ----------------------------------------------------------------------------- | ----------------------- |
+| Tuya    | Power, light, switch, sensor, camera, ...                                     | https://www.tuya.com    |
+| Tado    | Heating, boiler, thermostat, radiator ...                                     | https://www.tado.com    |
+| Eve     | Power, plug, meter, light, switch, camera, sensor, smoke, water, weather, ... | https://www.evehome.com |
+| Aqara   | Camera, sensor, plug, switch, ...                                             | https://www.aqara.com   |
+
