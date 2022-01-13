@@ -17,3 +17,9 @@ Email aliassing services.
 | ------------ | ------------------------------------------------------------- | ---------------------- |
 | Simple Login | Open Source, email aliasing, create identity for each website | https://simplelogin.io |
 | Anon Addy    | Open Source, anonymous email forwarding                       | https://anonaddy.com   |
+
+## Advertising
+
+| Service  | Description                                        | Website             |
+| -------- | -------------------------------------------------- | ------------------- |
+| AD Guard | Advertisement blocker (Mac, Windows, Android, iOS) | https://adguard.com |
