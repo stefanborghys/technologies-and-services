@@ -1,6 +1,8 @@
 # Climbing
 
-KBF - https://www.klimenbergsportfederatie.be
+CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be  
+- Flanders: KBF Vlaanderen - https://www.klimenbergsportfederatie.be  
+- Walonia: Club Alpin - https://www.clubalpin.be  
 
 ## Holds
 
