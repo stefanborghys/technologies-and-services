@@ -4,7 +4,9 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 - Flanders: KBF Vlaanderen - https://www.klimenbergsportfederatie.be  
 - Walonia: Club Alpin - https://www.clubalpin.be  
 
-## Holds
+## Holds & walls
+
+### Holds
 
 | Company             | Description                               | Website                                  |
 | ------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -23,7 +25,7 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Volx Holds          | Polyurethane, Volumes, Bolts, Screws      | https://volxholds.com                    |
 | DAI Holds           | Polyurethane                              | https://www.project-climbing.com/daihold |
 
-## Walls 
+### Walls 
 
 | Company        | Description                               | Website                         |
 | -------------- | ----------------------------------------- | ------------------------------- |
@@ -32,14 +34,46 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 |                |                                           | https://tjelmelandfriksjon.com  |
 | T-wall         | Walls                                     | https://www.t-wall.org          |
 
-## Services 
+### Services 
 
 | Company            | Description                         | Website                              |
 | ------------------ | ----------------------------------- | ------------------------------------ |
 | Friction Addiction | Wall building, hold suggestion, ... | https://www.frictionaddiction.com.au |
 
-## Shops
+### Shops
 
 | Company          | Description                               | Website                          |
 | ---------------- | ----------------------------------------- | -------------------------------- |
 | Climb Holds      | Polyester, Polyurethane, Fiberglass, Wood | https://www.climb-holds.com      |
+
+## Climbing
+
+### Shops
+
+| Company          | Description                               | Website                   |
+| ---------------- | ----------------------------------------- | ------------------------- |
+| De Berghut       |                                           | https://berghut.be        |
+| De Kampeerder    |                                           | https://www.kampeerder.be |
+| Monk             |                                           | https://monk.nl           |
+
+
+### Resoling
+
+| Company         | Description                    | Website                        |
+| --------------- | ------------------------------ | ------------------------------ |
+| SOeScalade      | Resoling Scarpa climbing shoes | https://www.soescalade.nl      |
+| Cambreur        | Resoling Meindl, Lowa, Hanwag en la sportiva climbing shoes | https://www.cambreur.nl |
+| Snijderwerk     | Resoling Adidas Five Ten climbing shoes | https://www.snijderwerk.nl |
+| Shoe Doctor     | Resoling of climbing shoes     | https://shoedoctor.eu          |
+
+## Climbers
+
+| Name             | Country   | Type                  | Website                     |
+| ---------------- | --------- | ----------------------| --------------------------- |
+| Chloe Caulier    | BE        | Rock, Indoor, Boulder | http://www.chloecaulier.com |
+| Sean Villanueva  | BE        | Big Wall              | https://nl.wikipedia.org/wiki/Sean_Villanueva        |
+|                  |           |                       | https://world.scarpa.com/athlet/sean-villanueva.html |
+| Nicolas Favresse | BE        | Big Wall, Trad, Sport | https://www.nicolasfavresse.com |
+|                  |           |                       | https://world.scarpa.com/athlet/nicolas-favresse.html |
+| Celine Cuypers   | BE        | Sport, Boulder        | https://www.celinecuypers.be |
+
