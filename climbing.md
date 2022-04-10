@@ -57,7 +57,7 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Monk             |                                           | https://monk.nl           |
 
 
-### Resoling
+### Shoe Resoling
 
 | Company         | Description                    | Website                        |
 | --------------- | ------------------------------ | ------------------------------ |
@@ -65,6 +65,23 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Cambreur        | Resoling Meindl, Lowa, Hanwag en la sportiva climbing shoes | https://www.cambreur.nl |
 | Snijderwerk     | Resoling Adidas Five Ten climbing shoes | https://www.snijderwerk.nl |
 | Shoe Doctor     | Resoling of climbing shoes     | https://shoedoctor.eu          |
+
+## Equipment
+
+| Company          | Description                               | Website                     |
+| ---------------- | ----------------------------------------- | --------------------------- |
+| Rock Exotica     |                                           | https://www.rockexotica.com |
+| Wild Country     |                                           | https://www.wildcountry.com |
+| Petzl            |                                           | https://www.petzl.com       |
+
+### Belay Devices
+
+| Company          | Description  | Website                     |
+| ---------------- | ------------ | --------------------------- |
+| Rock Exotica - Silent Partner | No more produced | https://www.rockexotica.com |
+| Wild Country - Revo |              | https://www.wildcountry.com/en-us/revo-belay-device-40-revo_00000 |
+| Wild Country - Pro Guide Lite |    | https://www.wildcountry.com/en-us/pro-guide-lite-40-proguidlt_ |
+| Petzl - Grigri +    |              | https://www.petzl.com/BE/en/Sport/Belay-Devices-And-Descenders/GRIGRI-PLUS |
 
 ## Climbers
 
