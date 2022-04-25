@@ -24,6 +24,9 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Alamo Wood Climbing | Wood Campus, Wood Volumes                 | https://www.alamowoodclimbing.com        |
 | Volx Holds          | Polyurethane, Volumes, Bolts, Screws      | https://volxholds.com                    |
 | DAI Holds           | Polyurethane                              | https://www.project-climbing.com/daihold |
+| So Ill              |                                           | https://soillholds.com                   |
+| Atomik Climbing Holds |                                         | https://www.atomikclimbingholds.com      |
+
 
 ### Walls 
 
@@ -56,6 +59,9 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | De Kampeerder    |                                           | https://www.kampeerder.be |
 | Monk             |                                           | https://monk.nl           |
 
+| Company          | Description                               | Website                   |
+| ---------------- | ----------------------------------------- | ------------------------- |
+| K2 Profshop      |                                           | https://www.k2profshop.be |
 
 ### Shoe Resoling
 
@@ -73,6 +79,9 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Rock Exotica     |                                           | https://www.rockexotica.com |
 | Wild Country     |                                           | https://www.wildcountry.com |
 | Petzl            |                                           | https://www.petzl.com       |
+| Metolius         |                                           | https://www.metoliusclimbing.com |
+| Trango           |                                           | https://trango.com          |
+| So Ill           |                                           | https://soillholds.com      |
 
 ### Belay Devices
 
@@ -82,6 +91,17 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Wild Country - Revo |              | https://www.wildcountry.com/en-us/revo-belay-device-40-revo_00000 |
 | Wild Country - Pro Guide Lite |    | https://www.wildcountry.com/en-us/pro-guide-lite-40-proguidlt_ |
 | Petzl - Grigri +    |              | https://www.petzl.com/BE/en/Sport/Belay-Devices-And-Descenders/GRIGRI-PLUS |
+
+### Hangboards
+
+| Company          | Description                               | Website                     |
+| ---------------- | ----------------------------------------- | --------------------------- |
+| Metolius         |                                           | https://www.metoliusclimbing.com |
+| ZLagboard        |                                           | https://zlagboard.com |
+| Trango           |                                           | https://trango.com |
+| Beastmaker       |                                           | https://www.beastmaker.co.uk |
+| Problem Solver   |                                           | https://www.problemsolver.rocks |
+| So Ill           |                                           | https://soillholds.com |
 
 ## Climbers
 
