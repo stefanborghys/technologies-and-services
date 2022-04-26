@@ -18,6 +18,15 @@ Email aliassing services.
 | Simple Login | Open Source, email aliasing, create identity for each website | https://simplelogin.io |
 | Anon Addy    | Open Source, anonymous email forwarding                       | https://anonaddy.com   |
 
+Disposable / Temporary E-Mail Address services.
+
+| Service        | Description          | Website                       |
+| -------------- | -------------------- | ----------------------------- |
+| Guerrilla Mail |                      | https://www.guerrillamail.com |
+| Mail Drop      |                      | https://maildrop.cc           |
+| Dispostable    |                      | https://www.dispostable.com   |
+| Temporary Mail |                      | https://temporarymail.com     |
+
 ## Advertising
 
 | Service  | Description                                        | Website             |
