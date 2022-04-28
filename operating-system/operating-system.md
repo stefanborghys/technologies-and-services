@@ -13,3 +13,12 @@
 | Software   | Description                                     | Website               |
 | ---------- | ----------------------------------------------- | --------------------- |
 | Linux Mint | Open source user friendly desktop and laptop OS | https://linuxmint.com |
+| Pop!_OS    | OS for STEM and creative professionals          | https://pop.system76.com |
+
+## Android
+
+### Mobile
+
+| Software   | Description                                          | Website               |
+| ---------- | ---------------------------------------------------- | --------------------- |
+| LineageOS  | Open Source OS for various devices, based on Android | https://lineageos.org |
