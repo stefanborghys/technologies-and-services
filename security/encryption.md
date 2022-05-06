@@ -25,3 +25,9 @@
 | Software | Description                                                             | Website            |
 | -------- | ----------------------------------------------------------------------- | ------------------ |
 | Matrix   | Open Source standard for secure, decentralised, real-time communication | https://matrix.org |
+
+### Operating System
+
+| OS         | Description                                                   | Website                |
+| ---------- | ------------------------------------------------------------- | ---------------------- |
+| Tails      | Portable OS that protects against surveillance and censorship | https://tails.boum.org |
