@@ -15,6 +15,7 @@
 | Linux Mint | Open source user friendly desktop and laptop OS | https://linuxmint.com |
 | Pop!_OS    | OS for STEM and creative professionals          | https://pop.system76.com |
 | Tails      | Portable OS that protects against surveillance and censorship | https://tails.boum.org |
+| Anbox      | Android in a Box, Run Android applications on any GNU/Linux operating system | https://anbox.io |
 
 ## Mobile
 
