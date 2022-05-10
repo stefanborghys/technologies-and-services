@@ -40,3 +40,7 @@
 | Fusion 360     |                                        | https://www.autodesk.com/products/fusion-360 |
 | Easel          |                                        | https://www.inventables.com/technologies/easel |
 
+| Name           | Description                                                 | Website                      |
+| -------------- | ----------------------------------------------------------- | ---------------------------- |
+| MakerCase      | Web app for designing boxes for laser cutters & CNC routers | https://www.makercase.com    |
+
