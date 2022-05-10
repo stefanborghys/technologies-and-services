@@ -25,4 +25,11 @@
 | Eve     | Power, plug, meter, light, switch, camera, sensor, smoke, water, weather, ... | https://www.evehome.com |
 | Aqara   | Camera, sensor, plug, switch, ...                                             | https://www.aqara.com   |
 | INNR    | Light, ...                                                                    | https://www.innr.com    |
+| Fibaro  | Hub, switch, plug, heat, sensor, smoke, water, ...                            | https://www.fibaro.com  |
+
+## Domotics
+
+| Product  | Description                                                                   | Website                  |
+| -------- | ----------------------------------------------------------------------------- | ------------------------ |
+| Domoticz | Open Source Home Automation System                                            | https://www.domoticz.com |
 
