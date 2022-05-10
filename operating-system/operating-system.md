@@ -6,9 +6,9 @@
 | -------- | -------------------------------------------------------------------------- | ---------------------- |
 | Ventoy   | Open source tool to create bootable drive for ISO/WIM/IMG/VHD(x)/EFI files | https://www.ventoy.net |
 
-## Linux
+## Desktop
 
-### Flavors
+### Linux
 
 | Software   | Description                                     | Website               |
 | ---------- | ----------------------------------------------- | --------------------- |
@@ -16,10 +16,37 @@
 | Pop!_OS    | OS for STEM and creative professionals          | https://pop.system76.com |
 | Tails      | Portable OS that protects against surveillance and censorship | https://tails.boum.org |
 
-## Android
+## Mobile
 
-### Mobile
+### Android 
 
 | Software   | Description                                          | Website               |
 | ---------- | ---------------------------------------------------- | --------------------- |
 | LineageOS  | Open Source OS for various devices, based on Android | https://lineageos.org |
+| GrapheneOS | Private, secure mobile OS with Android app compatibility | https://grapheneos.org |
+| CopperheadOS | Secure Android built for encrypted and secure phones | https://copperhead.co/android |
+| Maru       | A context-aware, lightweight, open OS that unites mobile and desktop computing | https://maruos.com |
+
+### Linux
+
+| Software     | Description                                          | Website                 |
+| ------------ | ---------------------------------------------------- | ----------------------- |
+| Ubuntu Touch | Secure Android built for encrypted and secure phones | https://ubuntu-touch.io |
+| Plasma Mobile | Open Source UI running on Linux                     | https://plasma-mobile.org |
+| Tizen        |                                                      | https://www.tizen.org   |
+| AstianOS     | Open Linux-based OS                                  | https://astian.org/en/astianos-en |
+| PostmarketOS | Linux mobile OS                                      | https://postmarketos.org |
+| Sailfish OS  | Secure mobile OS                                     | https://sailfishos.org  |
+| PureOS       | Fully-convergent, user friendly, secure and freedom respecting OS for daily usage | https://www.pureos.net  |
+
+### Unix
+
+| Software   | Description                                          | Website                   |
+| ---------- | ---------------------------------------------------- | ------------------------- |
+| HarmonyOS  | Unified OS for all device forms                      | https://www.harmonyos.com |
+
+### Web
+
+| Software   | Description                                          | Website                   |
+| ---------- | ---------------------------------------------------- | ------------------------- |
+| KaiOS      | Web-based mobile OS                                  | https://www.kaiostech.com |
