@@ -32,7 +32,15 @@ Ableton, Learning Synths: https://learningsynths.ableton.com/en/get-started
 
 | Brand      | Description                         | Website                |
 | ---------- | ----------------------------------- | ---------------------- |
-| intellijel | Modules                             | https://intellijel.com |
+| Intellijel | Modules                             | https://intellijel.com |
+| Behringer  | Modules                             | https://www.behringer.com |
+
+### WantList 
+
+| Brand      | Model       | Description                         | Website                |
+| ---------- | ----------- | ----------------------------------- | ---------------------- |
+| Intellijel | Metropolix  | Multitrack, Performance-Oriented Pitch, Gate and Mod Sequencer | https://intellijel.com/shop/eurorack/metropolix |
+| Behringer  | Blue Marvin | Semi-Modular Analog Synth with 3 VCOs, Multi-Mode VCF | https://www.behringer.com/product.html?modelCode=P0EAD |
 
 ### Software 
 
