@@ -18,4 +18,6 @@
 | Software  | Description                          | Website                   |
 | --------- | ------------------------------------ | ------------------------- |
 | ADV Sound | Headphones, IEM's, Bluetoot adapters | https://www.adv-sound.com |
+| Tin HIFI  | IEM's                                | https://www.tinhifi.com |
+| Moondrop  | IEM's                                | https://www.moondroplab.com |
 
