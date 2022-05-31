@@ -2,19 +2,33 @@
 
 ## Contractors
 
-| Tool        | Description                                          | Website                   |
-| :---------- | :--------------------------------------------------- | ------------------------: |
-| Greenthing  | Landscaping, earthworks, driveways, gardens, ...     | https://www.greenthing.be |
+| Tool       | Description                                      | Website                   |
+| :--------- | :----------------------------------------------- | ------------------------: |
+| Greenthing | Landscaping, earthworks, driveways, gardens, ... | https://www.greenthing.be |
 
-## Shops
+## General Shops
 
-| Tool           | Description                              | Website                     |
-| :------------- | :--------------------------------------- | --------------------------: |
-| Raintech Shop  | Sprinkler systems, pumps, tubes, ...     | https://www.raintechshop.nl |
-| Wildkamp       | Vijver, tuin, woning, ...                | https://www.wildkamp.nl     |
+| Shops         | Description                          | Website                     |
+| :------------ | :----------------------------------- | --------------------------: |
+| Raintech Shop | Sprinkler systems, pumps, tubes, ... | https://www.raintechshop.nl |
+| Wildkamp      | Vijver, tuin, woning, ...            | https://www.wildkamp.nl     |
 
 ## Watertanks
 
-| Tool           | Description                   | Website                   |
-| :------------- | :---------------------------- | ------------------------: |
-| DS Plastics    | Opslagtanks, regenwaterputten | https://www.dsplastics.be |
+| Manufacturers | Description                   | Website                   |
+| :------------ | :---------------------------- | ------------------------: |
+| DS Plastics   | Opslagtanks, regenwaterputten | https://www.dsplastics.be |
+
+## Pumps
+
+| Shops        | Description         | Website                   |
+| :----------- | :------------------ | ------------------------: |
+| Waterpomp    | Pumps               | https://www.waterpomp.be  |
+| Nautic Gear  | Lenspomp, bilgepomp | https://www.nauticgear.nl |
+| Bilge Pompen | Bilgepomp           | https://bilgepompen.nl    |
+
+## Gates
+
+| Firm      | Description           | Website             |
+| :-------- | :-------------------- | ------------------: |
+| AG Design | Automatic Gate Design | https://agdesign.be |
