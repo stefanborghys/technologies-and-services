@@ -18,14 +18,15 @@
 
 ## Smart Home
 
-| Product | Description                                                                   | Website                 |
-| ------- | ----------------------------------------------------------------------------- | ----------------------- |
-| Tuya    | Power, light, switch, sensor, camera, ...                                     | https://www.tuya.com    |
-| Tado    | Heating, boiler, thermostat, radiator ...                                     | https://www.tado.com    |
-| Eve     | Power, plug, meter, light, switch, camera, sensor, smoke, water, weather, ... | https://www.evehome.com |
-| Aqara   | Camera, sensor, plug, switch, ...                                             | https://www.aqara.com   |
-| INNR    | Light, ...                                                                    | https://www.innr.com    |
-| Fibaro  | Hub, switch, plug, heat, sensor, smoke, water, ...                            | https://www.fibaro.com  |
+| Product   | Description                                                                   | Website                    |
+| --------- | ----------------------------------------------------------------------------- | -------------------------- |
+| Tuya      | Power, light, switch, sensor, camera, ...                                     | https://www.tuya.com       |
+| Tado      | Heating, boiler, thermostat, radiator ...                                     | https://www.tado.com       |
+| Eve       | Power, plug, meter, light, switch, camera, sensor, smoke, water, weather, ... | https://www.evehome.com    |
+| Aqara     | Camera, sensor, plug, switch, ...                                             | https://www.aqara.com      |
+| INNR      | Light, ...                                                                    | https://www.innr.com       |
+| Fibaro    | Hub, switch, plug, heat, sensor, smoke, water, ...                            | https://www.fibaro.com     |
+| SwitchBot | Curtain, camera, sensor, light, humidification, switch, ...                   | https://www.switch-bot.com |
 
 ## Domotics
 
