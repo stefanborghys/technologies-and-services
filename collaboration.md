@@ -1,8 +1,9 @@
 # Collaboration
 
-| Software   | Description                                       | Website                |
-| ---------- | ------------------------------------------------- | ---------------------- |
-| Mattermost | Open Source Collaboration Platform for Developers | https://mattermost.com |
+| Software    | Description                                       | Website                |
+| ----------- | ------------------------------------------------- | ---------------------- |
+| Mattermost  | Open Source Collaboration Platform for Developers | https://mattermost.com |
+| Switchboard | Collaboration room to share web based services, conf call, ... | https://www.switchboard.app |
 
 ## Communication
 
