@@ -22,3 +22,11 @@
 | Software  | Description              | Website              |
 | --------- | ------------------------ | -------------------- |
 | kdenlive  | Open source video editor | https://kdenlive.org |
+
+## Media Servers
+
+| Software  | Description                | Website              |
+| --------- | -------------------------- | -------------------- |
+| Jellyfin  | Free Software Media System | https://jellyfin.org |
+| Plex      | Media Server               | https://www.plex.tv  |
+| Emby      | Media Server               | https://emby.media   |
