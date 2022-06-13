@@ -2,10 +2,11 @@
 
 ## Electronics Design
 
-| Software | Description                                                                                     | Website               |
-| -------- | ----------------------------------------------------------------------------------------------- | --------------------- |
+| Software | Description                   | Website               |
+| -------- | ----------------------------- | --------------------- |
 | KiCad    | Cross Platform, Open Source Electronics Design Automation Suite. Create schematics, PCB layouts | https://www.kicad.org |
 | Easy EDA | Free (online) PCB design tool | https://easyeda.com |
+| Altium   | PCB Design Software | https://www.altium.com |
 
 ## Model Design
 
