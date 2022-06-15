@@ -4,6 +4,15 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 - Flanders: KBF Vlaanderen - https://www.klimenbergsportfederatie.be  
 - Walonia: Club Alpin - https://www.clubalpin.be  
 
+## Gyms
+
+### Belgium
+
+| Gym             | Location              | Type                               | Website                                  |
+| --------------- | --------------------- | ---------------------------------- | ---------------------------------------- |
+| Petite Île      | Brussels - Anderlecht | Boulder                            | https://petite-ile.be                    |
+| Arkose Canal    | Brussels              | Boulder                            | https://canal.arkose.com                 |
+
 ## Holds & walls
 
 ### Holds
@@ -26,7 +35,6 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | DAI Holds           | Polyurethane                              | https://www.project-climbing.com/daihold |
 | So Ill              |                                           | https://soillholds.com                   |
 | Atomik Climbing Holds |                                         | https://www.atomikclimbingholds.com      |
-
 
 ### Walls 
 
