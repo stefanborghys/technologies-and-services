@@ -1,5 +1,12 @@
 # Coffee
 
+## Shops
+
+| Brand           | Description                    | Website                    |
+| :-------------- | :----------------------------- | -------------------------: |
+| Espresso        | Coffee, Espresso Machines      | https://espresso.nl        |
+| Simon Levelt    | Coffee, Tea, Espresso Machines | https://www.simonlevelt.be |
+
 ## Grinders
 
 | Brand           | Description      | Website                        |
@@ -15,6 +22,7 @@
 | Brand           | Description          | Website                    |
 | :-------------- | :------------------- | -------------------------: |
 | Decent Espresso |                      | https://decentespresso.com |
+| Hario           | Syphons, Cold Brew   | https://www.hario.co.uk    |
 
 ## Lever Machines
 
@@ -22,3 +30,4 @@
 | :-------------- | :----------------------------------------------------------- | -----------------------------: |
 | La Pavoni       | Lever, Semi Pro, Combined, Manual Machines & Coffee grinders | https://www.lapavoni.com       |
 | Olympia Express | Lever Machines & Coffee grinders                             | https://www.olympia-express.ch |
+
