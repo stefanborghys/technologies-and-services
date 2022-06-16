@@ -16,3 +16,10 @@
 | -------- | ------------------------------------------- | ------------------------ |
 | Keychron | Wireless, Normal-Low Profile, Switches, ... | https://www.keychron.com |
 | MkUltra  | Parts, Switches, KeyCaps ...                | https://mkultra.click    |
+
+
+## Monitor
+
+| Store       | Types                                                       | Website                                     |
+| ----------- | ----------------------------------------------------------- | ------------------------------------------- |
+| LG - DualUp | 28-inch 16:18 DualUp Monitor with Ergo Stand and USB Type-C | https://www.lg.com/us/monitors/lg-28mq780-b |
