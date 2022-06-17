@@ -2,10 +2,11 @@
 
 ## Shops
 
-| Brand           | Description                    | Website                    |
-| :-------------- | :----------------------------- | -------------------------: |
-| Espresso        | Coffee, Espresso Machines      | https://espresso.nl        |
-| Simon Levelt    | Coffee, Tea, Espresso Machines | https://www.simonlevelt.be |
+| Brand           | Description                    | Website                     |
+| :-------------- | :----------------------------- | --------------------------: |
+| Espresso        | Coffee, Espresso Machines      | https://espresso.nl         |
+| Simon Levelt    | Coffee, Tea, Espresso Machines | https://www.simonlevelt.be  |
+| De Koffieboon   | Coffee, Coffee Machines        | https://www.dekoffieboon.be |
 
 ## Grinders
 
