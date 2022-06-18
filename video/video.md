@@ -30,3 +30,4 @@
 | Jellyfin  | Free Software Media System | https://jellyfin.org |
 | Plex      | Media Server               | https://www.plex.tv  |
 | Emby      | Media Server               | https://emby.media   |
+| OSMC      | Open Source Media Server   | https://osmc.tv      |
