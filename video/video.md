@@ -14,20 +14,26 @@
 ### Broadcasting
 
 | Software | Description                                                                 | Website                |
-| -------- | --------------------------------------------------------------------------- | ---------------------- |
+| :------- | :-------------------------------------------------------------------------- | ---------------------: |
 | OBS      | Cross platform, Open Source software for video recording and live streaming | https://obsproject.com |
 
 ## Editing
 
 | Software  | Description              | Website              |
-| --------- | ------------------------ | -------------------- |
+| :-------- | :----------------------- | -------------------: |
 | kdenlive  | Open source video editor | https://kdenlive.org |
 
 ## Media Servers
 
 | Software  | Description                | Website              |
-| --------- | -------------------------- | -------------------- |
+| :-------- | :------------------------- | -------------------: |
 | Jellyfin  | Free Software Media System | https://jellyfin.org |
 | Plex      | Media Server               | https://www.plex.tv  |
 | Emby      | Media Server               | https://emby.media   |
 | OSMC      | Open Source Media Server   | https://osmc.tv      |
+
+## Transcoding
+
+| Software  | Description                                                                      | Website              |
+| :-------- | :------------------------------------------------------------------------------- | -------------------: |
+| HandBrake | Open Source tool for converting video from any format to widely supported codecs | https://handbrake.fr |
