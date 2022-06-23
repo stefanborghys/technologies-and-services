@@ -109,8 +109,24 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | ZLagboard      | https://zlagboard.com            |
 | Trango         | https://trango.com               |
 | Beastmaker     | https://www.beastmaker.co.uk     |
+|                | https://griptonite.io            |
 | Problem Solver | https://www.problemsolver.rocks  |
 | So Ill         | https://soillholds.com           |
+
+### Apps
+
+| App              | OS           | Website                        |
+| ---------------- | ------------ |------------------------------- |
+| Myclimb          | Android, iOS | https://www.myclimb.com        |
+| Grippy           | Android      | https://griptonite.io          |
+| TopLogger        | Android      | https://www.toplogger.nu       |
+| The Climbing App | Android      | https://www.theclimbingapp.com |
+| BoulderFIT       | Android      | https://www.theclimbingapp.com |
+| CRIMPD           | Android, iOS | https://www.crimpd.com         |
+| Stokt            | Android, iOS | https://www.getstokt.com       |
+| 27 Crags         | Android, iOS | https://27crags.com            |
+
+
 
 ## Climbers
 
