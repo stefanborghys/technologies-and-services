@@ -8,10 +8,10 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 
 ### Belgium
 
-| Gym             | Location              | Type                               | Website                                  |
-| --------------- | --------------------- | ---------------------------------- | ---------------------------------------- |
-| Petite Île      | Brussels - Anderlecht | Boulder                            | https://petite-ile.be                    |
-| Arkose Canal    | Brussels              | Boulder                            | https://canal.arkose.com                 |
+| Gym             | Location              | Type    | Website                  |
+| --------------- | --------------------- | ------- | ------------------------ |
+| Petite Île      | Brussels - Anderlecht | Boulder | https://petite-ile.be    |
+| Arkose Canal    | Brussels              | Boulder | https://canal.arkose.com |
 
 ## Holds & walls
 
@@ -53,63 +53,64 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 
 ### Shops
 
-| Company          | Description                               | Website                          |
-| ---------------- | ----------------------------------------- | -------------------------------- |
-| Climb Holds      | Polyester, Polyurethane, Fiberglass, Wood | https://www.climb-holds.com      |
+| Company     | Description                               | Website                     |
+| ----------- | ----------------------------------------- | --------------------------- |
+| Climb Holds | Polyester, Polyurethane, Fiberglass, Wood | https://www.climb-holds.com |
 
 ## Climbing
 
 ### Shops
 
-| Company          | Description                               | Website                   |
-| ---------------- | ----------------------------------------- | ------------------------- |
-| De Berghut       |                                           | https://berghut.be        |
-| De Kampeerder    |                                           | https://www.kampeerder.be |
-| Monk             |                                           | https://monk.nl           |
+| Company       | Website                   |
+| ------------- | ------------------------- |
+| De Berghut    | https://berghut.be        |
+| De Kampeerder | https://www.kampeerder.be |
+| Monk          | https://monk.nl           |
+| Klimwinkel    | https://www.klimwinkel.nl |
 
-| Company          | Description                               | Website                   |
-| ---------------- | ----------------------------------------- | ------------------------- |
-| K2 Profshop      |                                           | https://www.k2profshop.be |
+| Company     | Website                   |
+| ----------- | ------------------------- |
+| K2 Profshop | https://www.k2profshop.be |
 
 ### Shoe Resoling
 
-| Company         | Description                    | Website                        |
-| --------------- | ------------------------------ | ------------------------------ |
-| SOeScalade      | Resoling Scarpa climbing shoes | https://www.soescalade.nl      |
-| Cambreur        | Resoling Meindl, Lowa, Hanwag en la sportiva climbing shoes | https://www.cambreur.nl |
-| Snijderwerk     | Resoling Adidas Five Ten climbing shoes | https://www.snijderwerk.nl |
-| Shoe Doctor     | Resoling of climbing shoes     | https://shoedoctor.eu          |
+| Company     | Description                    | Website                        |
+| ----------- | ------------------------------ | ------------------------------ |
+| SOeScalade  | Resoling Scarpa climbing shoes | https://www.soescalade.nl      |
+| Cambreur    | Resoling Meindl, Lowa, Hanwag en la sportiva climbing shoes | https://www.cambreur.nl |
+| Snijderwerk | Resoling Adidas Five Ten climbing shoes | https://www.snijderwerk.nl |
+| Shoe Doctor | Resoling of climbing shoes     | https://shoedoctor.eu          |
 
 ## Equipment
 
-| Company          | Description                               | Website                     |
-| ---------------- | ----------------------------------------- | --------------------------- |
-| Rock Exotica     |                                           | https://www.rockexotica.com |
-| Wild Country     |                                           | https://www.wildcountry.com |
-| Petzl            |                                           | https://www.petzl.com       |
-| Metolius         |                                           | https://www.metoliusclimbing.com |
-| Trango           |                                           | https://trango.com          |
-| So Ill           |                                           | https://soillholds.com      |
+| Company      | Website                     |
+| ------------ | --------------------------- |
+| Rock Exotica | https://www.rockexotica.com |
+| Wild Country | https://www.wildcountry.com |
+| Petzl        | https://www.petzl.com       |
+| Metolius     | https://www.metoliusclimbing.com |
+| Trango       | https://trango.com          |
+| So Ill       | https://soillholds.com      |
 
 ### Belay Devices
 
 | Company          | Description  | Website                     |
 | ---------------- | ------------ | --------------------------- |
 | Rock Exotica - Silent Partner | No more produced | https://www.rockexotica.com |
-| Wild Country - Revo |              | https://www.wildcountry.com/en-us/revo-belay-device-40-revo_00000 |
-| Wild Country - Pro Guide Lite |    | https://www.wildcountry.com/en-us/pro-guide-lite-40-proguidlt_ |
-| Petzl - Grigri +    |              | https://www.petzl.com/BE/en/Sport/Belay-Devices-And-Descenders/GRIGRI-PLUS |
+| Wild Country - Revo | | https://www.wildcountry.com/en-us/revo-belay-device-40-revo_00000 |
+| Wild Country - Pro Guide Lite | | https://www.wildcountry.com/en-us/pro-guide-lite-40-proguidlt_ |
+| Petzl - Grigri +    | | https://www.petzl.com/BE/en/Sport/Belay-Devices-And-Descenders/GRIGRI-PLUS |
 
 ### Hangboards
 
-| Company          | Description                               | Website                     |
-| ---------------- | ----------------------------------------- | --------------------------- |
-| Metolius         |                                           | https://www.metoliusclimbing.com |
-| ZLagboard        |                                           | https://zlagboard.com |
-| Trango           |                                           | https://trango.com |
-| Beastmaker       |                                           | https://www.beastmaker.co.uk |
-| Problem Solver   |                                           | https://www.problemsolver.rocks |
-| So Ill           |                                           | https://soillholds.com |
+| Company        | Website                          |
+| -------------- | -------------------------------- |
+| Metolius       | https://www.metoliusclimbing.com |
+| ZLagboard      | https://zlagboard.com            |
+| Trango         | https://trango.com               |
+| Beastmaker     | https://www.beastmaker.co.uk     |
+| Problem Solver | https://www.problemsolver.rocks  |
+| So Ill         | https://soillholds.com           |
 
 ## Climbers
 
