@@ -16,3 +16,9 @@
 | Software | Description                                                                      | Website             |
 | -------- | -------------------------------------------------------------------------------- | ------------------- |
 | Sogo     | Open Source groupware server alowing to share calendars, address books and mails | https://www.sogo.nu |
+
+## Video Conferencing
+
+| Software | Description                     | Website           |
+| -------- | ------------------------------- | ----------------- |
+| Jitsi    | Secure, free video conferencing | https://jitsi.org |
