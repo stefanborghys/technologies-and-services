@@ -27,8 +27,20 @@
 | Nautic Gear  | Lenspomp, bilgepomp | https://www.nauticgear.nl |
 | Bilge Pompen | Bilgepomp           | https://bilgepompen.nl    |
 
+## Hoses
+
+| Shops        | Description | Website                           |
+| :----------- | :---------- | --------------------------------: |
+| Techniparts  | Hoses       | https://www.techniparts-online.nl |
+
 ## Gates
 
 | Firm      | Description           | Website             |
 | :-------- | :-------------------- | ------------------: |
 | AG Design | Automatic Gate Design | https://agdesign.be |
+
+## Ponds
+
+| Shops    | Description                     | Website               |
+| :------- | :------------------------------ | --------------------: |
+| Koi & Co | Pond & aquarium specialist shop | https://www.koi-co.be |
