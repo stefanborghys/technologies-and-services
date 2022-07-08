@@ -35,6 +35,7 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | DAI Holds           | Polyurethane                              | https://www.project-climbing.com/daihold |
 | So Ill              |                                           | https://soillholds.com                   |
 | Atomik Climbing Holds |                                         | https://www.atomikclimbingholds.com      |
+| Max Climbing        |                                         | https://www.maxclimbing.com              |
 
 ### Walls 
 
