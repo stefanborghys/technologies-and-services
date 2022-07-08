@@ -2,6 +2,16 @@
 
 ## Plastics
 
-| Name               | Description                                                    | Website                        |
+| Shop               | Description                                                    | Website                        |
 | ------------------ | -------------------------------------------------------------- | ------------------------------ |
 | Kunstof Platenshop | PVC, Plexi, Polycarbonaa, HPL | Trespa, Dibond, ...            | https://kunststofplatenshop.nl |
+
+## Metals
+
+| Shop               | Description                            | Website                      |
+| ------------------ | -------------------------------------- | ---------------------------- |
+| Meta Shop          | Hardware, Bolds, ...                   | https://www.metashop.be      |
+| Ijzerwaren Webshop | Hardware, Bolds, Straps, Elastics, ... | https://ijzerwarenwebshop.be |
+| RVS Land           | Hardware, ...                          | https://www.rvsland.nl       |
+| RVS Paleis         | Hardware, ...                          | https://www.rvspaleis.nl     |
+| Fabory             | Hardware, ...                          | https://www.fabory.com       |
