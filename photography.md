@@ -5,6 +5,7 @@
 | Software  | Description                                          | Website                   |
 | :-------- | :--------------------------------------------------- | ------------------------: |
 | Darktable | Open source photography workflow app & raw developer | https://www.darktable.org |
+| PTGui     | Panoramic image stitching software                   | https://ptgui.com         |
 
 ## Print
 
