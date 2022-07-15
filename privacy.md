@@ -32,3 +32,9 @@ Disposable / Temporary E-Mail Address services.
 | Service  | Description                                        | Website             |
 | -------- | -------------------------------------------------- | ------------------- |
 | AD Guard | Advertisement blocker (Mac, Windows, Android, iOS) | https://adguard.com |
+
+## Search 
+
+| Service  | Description                     | Website                    |
+| -------- | ------------------------------- | -------------------------- |
+| Sear XNG | Free internet metasearch engine | https://github.com/searxng |
