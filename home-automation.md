@@ -30,7 +30,6 @@
 
 ## Domotics
 
-| Product  | Description                                                                   | Website                  |
-| -------- | ----------------------------------------------------------------------------- | ------------------------ |
-| Domoticz | Open Source Home Automation System                                            | https://www.domoticz.com |
-
+| Product  | Description                        | Website                  |
+| -------- | ---------------------------------- | ------------------------ |
+| Domoticz | Open Source Home Automation System | https://www.domoticz.com |
