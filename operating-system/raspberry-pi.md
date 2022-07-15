@@ -10,6 +10,7 @@
 
 ## Projects 
 
-| Software | Description                  | Website                              |
-| -------- | ---------------------------- | ------------------------------------ |
-| Pi.Alert | WIFI / LAN intruder detector | https://github.com/pucherot/Pi.Alert |
+| Software | Description                     | Website                              |
+| -------- | ------------------------------- | ------------------------------------ |
+| Pi.Alert | WIFI / LAN intruder detector    | https://github.com/pucherot/Pi.Alert |
+| Sear XNG | Free internet metasearch engine | https://github.com/searxng           |
