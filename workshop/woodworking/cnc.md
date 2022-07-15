@@ -5,6 +5,7 @@
 | Name    | Website                 |
 | ------- | ----------------------- |
 | Bob CNC | https://www.bobscnc.com |
+| Wegstr  | https://wegstr.com      |
 
 ## Software
 
