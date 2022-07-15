@@ -22,3 +22,9 @@
 | Software | Description                     | Website           |
 | -------- | ------------------------------- | ----------------- |
 | Jitsi    | Secure, free video conferencing | https://jitsi.org |
+
+## Notes
+
+| Software | Description                 | Website               |
+| -------- | --------------------------- | --------------------- |
+| Joplin   | Open source note-taking app | https://joplinapp.org |
