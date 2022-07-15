@@ -28,6 +28,7 @@
 | GrapheneOS | Private, secure mobile OS with Android app compatibility | https://grapheneos.org |
 | CopperheadOS | Secure Android built for encrypted and secure phones | https://copperhead.co/android |
 | Maru       | A context-aware, lightweight, open OS that unites mobile and desktop computing | https://maruos.com |
+| fydeOS     |                                                      | https://www.fydeos.io |
 
 ### Linux
 
