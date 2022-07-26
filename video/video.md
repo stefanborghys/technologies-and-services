@@ -22,6 +22,7 @@
 | Software  | Description              | Website              |
 | :-------- | :----------------------- | -------------------: |
 | kdenlive  | Open source video editor | https://kdenlive.org |
+| Davinci Resolve | Professional Editing, Color, Effects & Audio Post | https://www.blackmagicdesign.com/products/davinciresolve |
 
 ## Media Servers
 
