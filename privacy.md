@@ -38,3 +38,10 @@ Disposable / Temporary E-Mail Address services.
 | Service  | Description                     | Website                    |
 | -------- | ------------------------------- | -------------------------- |
 | Sear XNG | Free internet metasearch engine | https://github.com/searxng |
+
+## Password Managers 
+
+| Software  | Description                                 | Website               |
+| --------- | ------------------------------------------- | --------------------- |
+| KeePassXC | Open Source Cross-Platform Password Manager | https://keepassxc.org |
+| Enpass    | Password Manager                            | https://www.enpass.io |
