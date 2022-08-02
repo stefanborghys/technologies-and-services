@@ -35,7 +35,8 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | DAI Holds           | Polyurethane                              | https://www.project-climbing.com/daihold |
 | So Ill              |                                           | https://soillholds.com                   |
 | Atomik Climbing Holds |                                         | https://www.atomikclimbingholds.com      |
-| Max Climbing        |                                         | https://www.maxclimbing.com              |
+| Max Climbing        |                                           | https://www.maxclimbing.com              |
+| Setter Closet       |                                           | https://settercloset.com                 |
 
 ### Walls 
 
@@ -45,6 +46,18 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Friction Walls | Walls                                     | http://www.frictionwalls.com    |
 |                |                                           | https://tjelmelandfriksjon.com  |
 | T-wall         | Walls                                     | https://www.t-wall.org          |
+
+### Standardized Interactive Climbing Training Board (SICTB) 
+
+| Company          | Description              | Website                             |
+| ---------------- | ------------------------ | ----------------------------------- |
+| Grasshopper      | Adjustable training wall | https://www.grasshopperclimbing.com |
+| Moon Climbing    | Moonboard                | https://moonclimbing.com            |
+| Tension Climbing | Tension Board            | https://www.tensionclimbing.com     |
+| Setter Closet    | Kilter Board             | https://settercloset.com            |
+| Lattice Training | Lattice Training Board   | https://latticetraining.com         |
+| Wide Boyz        | Freestanding Wall        | https://wideboyz.com                |
+
 
 ### Services 
 
