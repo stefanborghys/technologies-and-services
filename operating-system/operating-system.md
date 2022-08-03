@@ -18,6 +18,7 @@
 | Anbox       | Android in a Box, Run Android applications on any GNU/Linux OS | https://anbox.io |
 | Alma Linux  | Open Source, community owned & governed, enterprise Linux distribution | https://almalinux.org |
 | Rocky Linux | Open Source enterprise OS                       | https://rockylinux.or |
+| Asahi Linux | Polished Linux on Apple Silicon Macs            | https://asahilinux.org |
 
 ## Mobile
 
