@@ -15,9 +15,9 @@
 
 ## Brands
 
-| Software  | Description                          | Website                   |
-| --------- | ------------------------------------ | ------------------------- |
-| ADV Sound | Headphones, IEM's, Bluetoot adapters | https://www.adv-sound.com |
-| Tin HIFI  | IEM's                                | https://www.tinhifi.com |
-| Moondrop  | IEM's                                | https://www.moondroplab.com |
-
+| Software  | Description                                           | Website                     |
+| --------- | ----------------------------------------------------- | --------------------------- |
+| ADV Sound | Headphones, IEM's, Bluetoot adapters                  | https://www.adv-sound.com   |
+| Tin HIFI  | IEM's                                                 | https://www.tinhifi.com     |
+| Moondrop  | IEM's                                                 | https://www.moondroplab.com |
+| Fiio      | Portable players, DACs, Amps, Ears, USB adapters, ... | https://fiio.com            |
