@@ -20,3 +20,9 @@
 | Work Upload  | Not Required | unlimited      | 2 GB            | unlimited                               | https://workupload.com     |
 | Racaty       | Not Required | unlimited      | unlimited       | unlimited                               | https://racaty.net         |
 | Transfer     | Not Required | unlimited      | unlimited       | 14 days                                 | https://transfer.sh        |
+
+## Shops
+
+| Shop    | Description                     | Website               |
+| ------- | ------------------------------- |---------------------- |
+| Data IO | SD, SSD, HDD, ...               | https://www.dataio.nl |
