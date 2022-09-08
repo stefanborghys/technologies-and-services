@@ -8,10 +8,11 @@
 
 ## General Shops
 
-| Shops         | Description                          | Website                     |
-| :------------ | :----------------------------------- | --------------------------: |
-| Raintech Shop | Sprinkler systems, pumps, tubes, ... | https://www.raintechshop.nl |
-| Wildkamp      | Vijver, tuin, woning, ...            | https://www.wildkamp.nl     |
+| Shops             | Description                          | Website                     |
+| :---------------- | :----------------------------------- | --------------------------: |
+| Raintech Shop     | Sprinkler systems, pumps, tubes, ... | https://www.raintechshop.nl |
+| Wildkamp          | Vijver, tuin, woning, ...            | https://www.wildkamp.nl     |
+| Online Top Garden | Climate control, water, air, ...     | https://onlinetopgarden.com |
 
 ## Watertanks
 
