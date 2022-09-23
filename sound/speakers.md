@@ -2,20 +2,21 @@
 
 ## Reviews
 
-| Software  | Description                         | Website              |
-| --------- | ----------------------------------- | -------------------- |
-| Crinacle  | IEM, Headphone rankings             | https://crinacle.com |
+| Reviewer | Description                         | Website              |
+| -------- | ----------------------------------- | -------------------- |
+| Crinacle | IEM, Headphone rankings             | https://crinacle.com |
+| Darko    | Speakers, Headphone, amps, ...      | https://darko.audio  |
 
 ## Shops
 
-| Software  | Description                         | Website              |
-| --------- | ----------------------------------- | -------------------- |
-| Keep HIFI | Earphones, Amp, DAC, ...            | https://keephifi.com |
+| Shop       | Description                         | Website              |
+| ---------- | ----------------------------------- | -------------------- |
+| Keep HIFI  | Earphones, Amp, DAC, ...            | https://keephifi.com |
 | Headphones | Earphones, Headphones, Amp, DAC, Speakers, ... | https://www.headphones.com |
 
 ## Brands
 
-| Software  | Description                                           | Website                     |
+| Brand     | Description                                           | Website                     |
 | --------- | ----------------------------------------------------- | --------------------------- |
 | ADV Sound | Headphones, IEM's, Bluetoot adapters                  | https://www.adv-sound.com   |
 | Tin HIFI  | IEM's                                                 | https://www.tinhifi.com     |
