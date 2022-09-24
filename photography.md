@@ -13,3 +13,8 @@
 | :--------- | :------------------------------------------------ | -------------------------: |
 | ProFotoNet | Photo print plexi, canvas, dibong, aluminium, ... | https://www.profotonet.com |
 
+## Software
+
+| Software      | Description                                       | Website                     |
+| :------------ | :------------------------------------------------ | --------------------------: |
+| Magic Lantern | Software adding new features to Canon EOS cameras | https://www.magiclantern.fm |
