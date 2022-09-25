@@ -75,12 +75,13 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 
 ### Shops
 
-| Company       | Website                   |
-| ------------- | ------------------------- |
-| De Berghut    | https://berghut.be        |
-| De Kampeerder | https://www.kampeerder.be |
-| Monk          | https://monk.nl           |
-| Klimwinkel    | https://www.klimwinkel.nl |
+| Company           | Website                   |
+| ----------------- | ------------------------- |
+| De Berghut        | https://berghut.be        |
+| De Kampeerder     | https://www.kampeerder.be |
+| Monk              | https://monk.nl           |
+| Klimwinkel        | https://www.klimwinkel.nl |
+| Lecomte Alpirando | https://www.lecomte-alpirando.be |
 
 | Company     | Website                   |
 | ----------- | ------------------------- |
