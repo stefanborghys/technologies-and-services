@@ -75,7 +75,7 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 
 ### Shops
 
-| Company           | Website                   |
+| Shop              | Website                   |
 | ----------------- | ------------------------- |
 | De Berghut        | https://berghut.be        |
 | De Kampeerder     | https://www.kampeerder.be |
@@ -83,9 +83,10 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Klimwinkel        | https://www.klimwinkel.nl |
 | Lecomte Alpirando | https://www.lecomte-alpirando.be |
 
-| Company     | Website                   |
-| ----------- | ------------------------- |
-| K2 Profshop | https://www.k2profshop.be |
+| Shop         | Website                    |
+| ------------ | -------------------------- |
+| K2 Profshop  | https://www.k2profshop.be  |
+| Safety Green | https://www.safetygreen.nl |
 
 ### Shoe Resoling
 
@@ -95,6 +96,12 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | Cambreur    | Resoling Meindl, Lowa, Hanwag en la sportiva climbing shoes | https://www.cambreur.nl |
 | Snijderwerk | Resoling Adidas Five Ten climbing shoes | https://www.snijderwerk.nl |
 | Shoe Doctor | Resoling of climbing shoes     | https://shoedoctor.eu          |
+
+### Tree Climbing
+
+| Company   | Description            | Website              |
+| --------- | ---------------------- | -------------------- |
+| Climb Art | Treeclimbing equipment | https://climb-art.de |
 
 ## Equipment
 
@@ -140,8 +147,6 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 | CRIMPD           | Android, iOS | https://www.crimpd.com         |
 | Stokt            | Android, iOS | https://www.getstokt.com       |
 | 27 Crags         | Android, iOS | https://27crags.com            |
-
-
 
 ## Climbers
 
