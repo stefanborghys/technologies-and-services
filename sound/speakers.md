@@ -13,6 +13,7 @@
 | ---------- | ----------------------------------- | -------------------- |
 | Keep HIFI  | Earphones, Amp, DAC, ...            | https://keephifi.com |
 | Headphones | Earphones, Headphones, Amp, DAC, Speakers, ... | https://www.headphones.com |
+| Shenshen Audio | Earphones, Headphones, Amp, DAC, Portables, ... | https://shenzhenaudio.com |
 
 ## Brands
 
