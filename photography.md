@@ -25,3 +25,11 @@
 | :-------- | :------------- | ----------------------: |
 | Uw Camera | Camera webshop | https://www.uwcamera.nl |
 
+## Camera's
+
+### Canon 450D
+
+| Type        | Description           | Website                                     |
+| :---------- | :-------------------- | ------------------------------------------: |
+| Accessories | Remote controls       | https://store.canon.be/eos-450d-accessories |
+| Pixel       | TW-283 Remote control | https://www.pixelhk.com/en/product/TW-283-3 |
