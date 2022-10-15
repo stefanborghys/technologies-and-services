@@ -18,3 +18,10 @@
 | Software      | Description                                       | Website                     |
 | :------------ | :------------------------------------------------ | --------------------------: |
 | Magic Lantern | Software adding new features to Canon EOS cameras | https://www.magiclantern.fm |
+
+## Shops
+
+| Shop      | Description    | Website                 |
+| :-------- | :------------- | ----------------------: |
+| Uw Camera | Camera webshop | https://www.uwcamera.nl |
+
