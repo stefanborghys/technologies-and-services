@@ -2,9 +2,9 @@
 
 ## Plastics
 
-| Shop               | Description                                                    | Website                        |
-| ------------------ | -------------------------------------------------------------- | ------------------------------ |
-| Kunstof Platenshop | PVC, Plexi, Polycarbonaa, HPL | Trespa, Dibond, ...            | https://kunststofplatenshop.nl |
+| Shop               | Description                                         | Website                        |
+| ------------------ | --------------------------------------------------- | ------------------------------ |
+| Kunstof Platenshop | PVC, Plexi, Polycarbonaa, HPL , Trespa, Dibond, ... | https://kunststofplatenshop.nl |
 
 ## Metals
 
@@ -15,3 +15,10 @@
 | RVS Land           | Hardware, ...                          | https://www.rvsland.nl       |
 | RVS Paleis         | Hardware, ...                          | https://www.rvspaleis.nl     |
 | Fabory             | Hardware, ...                          | https://www.fabory.com       |
+
+## Central Heating
+
+| Shop            | Description | Website                               |
+| --------------- | ----------- | ------------------------------------- |
+| Verwarming Shop |             | https://www.verwarming-shop-online.be |
+| CV Ketel Shop   |             | https://www.cv-ketel-shop.be          |
