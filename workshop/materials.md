@@ -22,3 +22,9 @@
 | --------------- | ----------- | ------------------------------------- |
 | Verwarming Shop |             | https://www.verwarming-shop-online.be |
 | CV Ketel Shop   |             | https://www.cv-ketel-shop.be          |
+
+## Electricity
+
+| Shop       | Description | Website                   |
+| ---------- | ----------- | ------------------------- |
+| Elektramat |             | https://www.elektramat.be |
