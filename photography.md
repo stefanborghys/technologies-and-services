@@ -21,9 +21,16 @@
 
 ## Shops
 
-| Shop      | Description    | Website                 |
-| :-------- | :------------- | ----------------------: |
-| Uw Camera | Camera webshop | https://www.uwcamera.nl |
+| Shop      | Description                       | Website                 |
+| :-------- | :-------------------------------- | ----------------------: |
+| Uw Camera | Camera gear & Accessories webshop | https://www.uwcamera.nl |
+| Benel     | Camera gear & Accessories webshop | https://www.benel.nl    |
+
+## Accessories
+
+| Brands    | Description   | Website                   |
+| :-------- | :------------ | ------------------------: |
+| Manfrotto | Bags, tripods | https://www.manfrotto.com |
 
 ## Camera's
 
