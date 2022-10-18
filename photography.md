@@ -25,6 +25,7 @@
 | :-------- | :-------------------------------- | ----------------------: |
 | Uw Camera | Camera gear & Accessories webshop | https://www.uwcamera.nl |
 | Benel     | Camera gear & Accessories webshop | https://www.benel.nl    |
+| Camera Nu | Camera gear & Accessories webshop | https://www.cameranu.nl |
 
 ## Accessories
 
