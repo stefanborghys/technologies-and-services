@@ -8,10 +8,14 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 
 ### Belgium
 
-| Gym             | Location              | Type    | Website                  |
-| --------------- | --------------------- | ------- | ------------------------ |
-| Petite Île      | Brussels - Anderlecht | Boulder | https://petite-ile.be    |
-| Arkose Canal    | Brussels              | Boulder | https://canal.arkose.com |
+| Gym              | Location              | Type    | Website                  |
+| ---------------- | --------------------- | ------- | ------------------------ |
+| Petite Île       | Brussels - Anderlecht | Boulder | https://petite-ile.be    |
+| Arkose Canal     | Brussels              | Boulder | https://canal.arkose.com |
+| Blok             | Antwerpen - Hoboken   | Boulder | https://klimzaalblok.be  |
+| Beest Boulders   | Antwerpen             | Boulder | https://beestboulders.com/boulderen/beest-boulders-antwerpen |
+| Klimzaal Balance | Gent - Ledeberg       | Boulder | https://www.klimzaalbalance.be |
+| Rising You       | Antwerpen             | Boulder, Top Rope, Lead | https://club.risingyou.be |
 
 ## Holds & walls
 
