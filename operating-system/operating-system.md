@@ -16,10 +16,17 @@
 | Pop!_OS     | OS for STEM and creative professionals          | https://pop.system76.com |
 | Tails       | Portable OS that protects against surveillance and censorship | https://tails.boum.org |
 | Anbox       | Android in a Box, Run Android applications on any GNU/Linux OS | https://anbox.io |
-| Alma Linux  | Open Source, community owned & governed, enterprise Linux distribution | https://almalinux.org |
 | Rocky Linux | Open Source enterprise OS                       | https://rockylinux.or |
 | Asahi Linux | Polished Linux on Apple Silicon Macs            | https://asahilinux.org |
 | Deepin      | Debian based Linux distro made in China         | https://www.deepin.org |
+
+
+## Server
+
+### Linux 
+| Software    | Description                                     | Website               |
+| ----------- | ----------------------------------------------- | --------------------- |
+| Alma Linux  | Open Source, community owned & governed, enterprise Linux distribution | https://almalinux.org |
 
 ## Mobile
 
