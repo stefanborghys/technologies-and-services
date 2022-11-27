@@ -21,23 +21,45 @@
 
 ## Shops
 
-| Shop      | Description                       | Website                 |
-| :-------- | :-------------------------------- | ----------------------: |
-| Uw Camera | Camera gear & Accessories webshop | https://www.uwcamera.nl |
-| Benel     | Camera gear & Accessories webshop | https://www.benel.nl    |
-| Camera Nu | Camera gear & Accessories webshop | https://www.cameranu.nl |
+| Shop           | Description                      | Website                       |
+| :------------- | :------------------------------- | ----------------------------: |
+| Uw Camera      | Camera gear, accessories webshop | https://www.uwcamera.nl       |
+| Benel          | Camera gear, accessories webshop | https://www.benel.nl          |
+| Camera Nu      | Camera gear, accessories webshop | https://www.cameranu.nl       |
+| Kamera Express | Camera gear, accessories webshop | https://www.kamera-express.be |
+| Foto de vakman | Camera gear, accessories webshop | https://www.fotodevakman.nl   |
+
+## Distributors
+
+| Distributor | Description                  | Website               |
+| :---------- | :--------------------------- | --------------------: |
+| Disnet      | Wandrd, Caruba, Fotopro, ... | https://www.disnet.nl |
 
 ## Accessories
 
-| Brands    | Description   | Website                   |
-| :-------- | :------------ | ------------------------: |
-| Manfrotto | Bags, tripods | https://www.manfrotto.com |
+### Brands
+
+| Brands     | Description    | Website                   |
+| :--------- | :------------- | ------------------------: |
+| Manfrotto  | Bags, tripods  | https://www.manfrotto.com |
+| Hähnel     | Batteries, flash triggers, remote controls, speedlights | https://www.hahnel.ca |
+| Kent Faith | Tripods, filters, adapters, bags, cameras, drones | https://www.kentfaith.com |
+| Fotopro    | Tripods, heads | https://fotopro.eu |
+| Wandrd     | Bags           | https://eu.wandrd.com |
+
+### Wantlist 
+
+| Product | Description     | Website                   |
+| :------ | :-------------- | ------------------------: |
+| Wandrd  | DETOUR Hip Pack | https://eu.wandrd.com/collections/photography-bags/products/detour |
+| Wandrd  | ROUTE Pack      | https://eu.wandrd.com/collections/photography-bags/products/route-pack |
 
 ## Camera's
 
 ### Canon 450D
 
-| Type        | Description           | Website                                     |
-| :---------- | :-------------------- | ------------------------------------------: |
-| Accessories | Remote controls       | https://store.canon.be/eos-450d-accessories |
-| Pixel       | TW-283 Remote control | https://www.pixelhk.com/en/product/TW-283-3 |
+| Type        | Description                | Website                                     |
+| :---------- | :------------------------- | ------------------------------------------: |
+| Accessories | Remote controls            | https://store.canon.be/eos-450d-accessories |
+| Pixel       | TW-283 Remote control      | https://www.pixelhk.com/en/product/TW-283-3 |
+| Hähnel      | Captur Timer Kit for Canon | https://www.hahnel.ca/product/captur-timer-kit-for-canon |
