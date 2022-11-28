@@ -11,3 +11,10 @@
 | Name      | Location | Description         | Website                 |
 | :-------- | :------- | :------------------ | ----------------------: |
 | New Music | Brussels | High-end audio shop | https://www.newmusic.be |
+
+## Brands
+
+| Name         | Description      | Website                  |
+| :----------- | :--------------- | -----------------------: |
+| Monoprice    | Speakers, stands | https://www.monoprice.eu |
+| Pangea Audio | Stands, racks, shelves, record cleaning machines, | https://www.pangeaaudio.com |
