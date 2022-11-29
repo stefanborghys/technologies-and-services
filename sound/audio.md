@@ -18,3 +18,9 @@
 | :----------- | :--------------- | -----------------------: |
 | Monoprice    | Speakers, stands | https://www.monoprice.eu |
 | Pangea Audio | Stands, racks, shelves, record cleaning machines, | https://www.pangeaaudio.com |
+
+## Components
+
+| Name  | Description                             | Website              |
+| :---- | :-------------------------------------- | -------------------: |
+| Hypex | Class-D amplifier components NCore, UcD | https://www.hypex.nl |
