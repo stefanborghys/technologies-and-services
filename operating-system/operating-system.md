@@ -10,15 +10,17 @@
 
 ### Linux
 
-| Software    | Description                                     | Website               |
-| ----------- | ----------------------------------------------- | --------------------- |
-| Linux Mint  | Open source user friendly desktop and laptop OS | https://linuxmint.com |
-| Pop!_OS     | OS for STEM and creative professionals          | https://pop.system76.com |
-| Tails       | Portable OS that protects against surveillance and censorship | https://tails.boum.org |
-| Anbox       | Android in a Box, Run Android applications on any GNU/Linux OS | https://anbox.io |
-| Rocky Linux | Open Source enterprise OS                       | https://rockylinux.or |
-| Asahi Linux | Polished Linux on Apple Silicon Macs            | https://asahilinux.org |
-| Deepin      | Debian based Linux distro made in China         | https://www.deepin.org |
+| Software     | Description                                     | Website               |
+| :----------- | :---------------------------------------------- | :-------------------- |
+| Linux Mint   | Open source user friendly desktop and laptop OS | https://linuxmint.com |
+| Pop!_OS      | OS for STEM and creative professionals          | https://pop.system76.com |
+| Tails        | Portable OS that protects against surveillance and censorship | https://tails.boum.org |
+| Anbox        | Android in a Box, Run Android applications on any GNU/Linux OS | https://anbox.io |
+| Rocky Linux  | Open Source enterprise OS                       | https://rockylinux.or |
+| Asahi Linux  | Polished Linux on Apple Silicon Macs            | https://asahilinux.org |
+| Deepin       | Debian based Linux distro made in China         | https://www.deepin.org |
+| Endeavour OS | Terminal-centric distro                         | https://endeavouros.com |
+| NixOS        | Declaratively configurable Linux distro         | https://nixos.org     |
 
 
 ## Server
