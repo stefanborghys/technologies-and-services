@@ -2,10 +2,11 @@
 
 ## Editing
 
-| Software  | Description                                          | Website                   |
-| :-------- | :--------------------------------------------------- | ------------------------: |
-| Darktable | Open source photography workflow app & raw developer | https://www.darktable.org |
-| PTGui     | Panoramic image stitching software                   | https://ptgui.com         |
+| Software     | Description                                          | Website                     |
+| :----------- | :--------------------------------------------------- | --------------------------: |
+| Darktable    | Open source photography workflow app & raw developer | https://www.darktable.org   |
+| PTGui        | Panoramic image stitching software                   | https://ptgui.com           |
+| Raw Therapee | Free, cross-platform raw image processing program    | https://www.rawtherapee.com |
 
 ## Print
 
