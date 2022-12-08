@@ -11,6 +11,7 @@
 | Software | Description                                                             | Website            |
 | -------- | ----------------------------------------------------------------------- | ------------------ |
 | Matrix   | Open Source standard for secure, decentralised, real-time communication | https://matrix.org |
+| Message Bird | Communications platform between businesses and customers | https://www.messagebird.com |
 
 ## Mail & Calendar
 
