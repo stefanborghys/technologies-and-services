@@ -24,3 +24,10 @@
 | Name  | Description                             | Website              |
 | :---- | :-------------------------------------- | -------------------: |
 | Hypex | Class-D amplifier components NCore, UcD | https://www.hypex.nl |
+
+### Cables
+
+| Name          | Description                                                     | Website                    |
+| :------------ | :-------------------------------------------------------------- | -------------------------: |
+| Audioquest    | Power, speaker, interconnects, USB, HDMI, headphone, spool, ... | https://www.audioquest.com |
+| Chord Company | Speaker, interconnects, USB, HDMI, headphone, spool, ...        | https://chord.co.uk        |
