@@ -163,3 +163,9 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 |                  |           |                       | https://world.scarpa.com/athlet/nicolas-favresse.html |
 | Celine Cuypers   | BE        | Sport, Boulder        | https://www.celinecuypers.be |
 
+## Books
+
+| Name                                 | Author                   | Website                                       |
+| ------------------------------------ | ------------------------ | --------------------------------------------- |
+| Vertical Mind                        | Don McGrath, Jeff Elison | https://www.sixminutewebinar.com/verticalmind |
+| FEAR! Dealing with an unknown future | Roanne van Voorst        | https://roannevanvoorst.com                   |
