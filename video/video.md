@@ -25,6 +25,7 @@
 | Davinci Resolve | Professional Editing, Color, Effects & Audio Post | https://www.blackmagicdesign.com/products/davinciresolve |
 | Shotcut   | Free, open source, cross-platform video editor | https://www.shotcut.org |
 | Lossless Cut | Lossless video/audio editing  | https://github.com/mifi/lossless-cut |
+| Shutter Encoder | Free converter, editor | https://www.shutterencoder.com |
 
 ## Media Servers
 
