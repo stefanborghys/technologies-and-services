@@ -40,20 +40,24 @@
 
 ### Brands
 
-| Brands     | Description    | Website                   |
-| :--------- | :------------- | ------------------------: |
-| Manfrotto  | Bags, tripods  | https://www.manfrotto.com |
-| Hähnel     | Batteries, flash triggers, remote controls, speedlights | https://www.hahnel.ca |
-| Kent Faith | Tripods, filters, adapters, bags, cameras, drones | https://www.kentfaith.com |
-| Fotopro    | Tripods, heads | https://fotopro.eu |
-| Wandrd     | Bags           | https://eu.wandrd.com |
+| Brands      | Description    | Website                   |
+| :---------- | :------------- | ------------------------: |
+| Manfrotto   | Bags, tripods  | https://www.manfrotto.com |
+| Hähnel      | Batteries, flash triggers, remote controls, speedlights | https://www.hahnel.ca |
+| Kent Faith  | Tripods, filters, adapters, bags, cameras, drones | https://www.kentfaith.com |
+| Fotopro     | Tripods, heads | https://fotopro.eu |
+| Wandrd      | Bags           | https://eu.wandrd.com |
+| Peak Design | Bags, tripods, clips | https://www.peakdesign.com |
 
 ### Wantlist 
 
-| Product | Description     | Website                   |
-| :------ | :-------------- | ------------------------: |
-| Wandrd  | DETOUR Hip Pack | https://eu.wandrd.com/collections/photography-bags/products/detour |
-| Wandrd  | ROUTE Pack      | https://eu.wandrd.com/collections/photography-bags/products/route-pack |
+| Product     | Description          | Website                   |
+| :---------- | :------------------- | ------------------------: |
+| Wandrd      | DETOUR Hip Pack      | https://eu.wandrd.com/collections/photography-bags/products/detour |
+| Wandrd      | ROUTE Pack           | https://eu.wandrd.com/collections/photography-bags/products/route-pack |
+| Peak Design | Capture, camera clip | https://www.peakdesign.com/collections/camera-gear/products/capture |
+| Peak Design | Lens Kit, lens clip  | https://www.peakdesign.com/products/lens-kit |
+| ND Filter   | ND 1000x 58mm        |                           |
 
 ## Camera's
 
