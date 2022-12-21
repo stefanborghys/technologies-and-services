@@ -21,6 +21,7 @@
 | ------- | --------------------------------------------- | -------------------------------- |
 | Sattler | Manufactures design and customized luminaires | https://www.sattler-lighting.com |
 |         |                                               | https://www.sattler-lighting.com/en/portfolio/palito |
+| Solset  | Sunset Lamp                                   | https://thesolset.com            |
 
 ### Furniture
 
