@@ -4,6 +4,10 @@ CMBel - Climbing & Mountaineering Belgium: https://www.cmbel.be
 - Flanders: KBF Vlaanderen - https://www.klimenbergsportfederatie.be  
 - Walonia: Club Alpin - https://www.clubalpin.be  
 
+Belgian Federation Of Indoor Climbing: https://www.bfic.be  
+- routebouw boulder
+- routebouw lengte
+
 ## Gyms
 
 ### Belgium
