@@ -21,6 +21,7 @@
 | Deepin       | Debian based Linux distro made in China         | https://www.deepin.org |
 | Endeavour OS | Terminal-centric distro                         | https://endeavouros.com |
 | NixOS        | Declaratively configurable Linux distro         | https://nixos.org     |
+| Manjaro      |                                                 | https://manjaro.org   |
 
 
 ## Server
