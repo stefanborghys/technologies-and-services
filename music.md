@@ -2,9 +2,10 @@
 
 ## Festivals
 
-| Software  | Location                   | Description                           | Website                           |
-| --------- | -------------------------- | ------------------------------------- | --------------------------------- |
-| Dekmantel | The Netherlands, Amsterdam | Alternative Electronic Music Festival | https://www.dekmantelfestival.com |
+| Name          | Location                     | Description                           | Website                           |
+| ------------- | ---------------------------- | ------------------------------------- | --------------------------------- |
+| Dekmantel     | The Netherlands, Amsterdam   | Alternative Electronic Music Festival | https://www.dekmantelfestival.com |
+| Boom Festival | Portugal, Idanha-A-Nova Lake | Goa Music Festival                    | https://boomfestival.org          |
 
 ## Shops
 
@@ -17,6 +18,7 @@
 | Detriti Records      | Germany         | https://www.detritirecords.shop       |
 | Bleep                | United Kingdom  | https://bleep.com                     |
 | Transmission Records | United Kingdom  | https://www.transmissionrecords.co.uk |
+| CD Vinyl 4 U         | The Netherlands | https://cdvinyl4u.nl                  |
 
 ## Reviews
 
