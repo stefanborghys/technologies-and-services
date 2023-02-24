@@ -12,14 +12,15 @@ Belgian Federation Of Indoor Climbing: https://www.bfic.be
 
 ### Belgium
 
-| Gym              | Location              | Type    | Website                  |
-| ---------------- | --------------------- | ------- | ------------------------ |
-| Petite Île       | Brussels - Anderlecht | Boulder | https://petite-ile.be    |
-| Arkose Canal     | Brussels              | Boulder | https://canal.arkose.com |
-| Blok             | Antwerpen - Hoboken   | Boulder | https://klimzaalblok.be  |
-| Beest Boulders   | Antwerpen             | Boulder | https://beestboulders.com/boulderen/beest-boulders-antwerpen |
-| Klimzaal Balance | Gent - Ledeberg       | Boulder | https://www.klimzaalbalance.be |
-| Rising You       | Antwerpen             | Boulder, Top Rope, Lead | https://club.risingyou.be |
+| Gym              | Location              | Boulder | Top Rope | Lead | Website                  |
+| ---------------- | --------------------- | :-----: | :------: | :--: | ------------------------ |
+| Petite Île       | Brussels - Anderlecht | x       |          |      | https://petite-ile.be    |
+| Arkose Canal     | Brussels              | x       |          |      | https://canal.arkose.com |
+| Blok             | Antwerpen - Hoboken   | x       |          |      | https://klimzaalblok.be  |
+| Beest Boulders   | Antwerpen             | x       |          |      | https://beestboulders.com/boulderen/beest-boulders-antwerpen |
+| Klimzaal Balance | Gent - Ledeberg       | x       |          |      | https://www.klimzaalbalance.be |
+| Rising You       | Antwerpen             | x       | x        | x    | https://club.risingyou.be |
+| The Island       | Antwerpen             | x       |          |      | https://boulderzaaltheisland.be |
 
 ## Holds & walls
 
