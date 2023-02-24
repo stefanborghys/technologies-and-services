@@ -8,6 +8,8 @@
 
 ## File Sharing
 
+### Cloud File Sharing
+
 | Service      | Account      | Space          | File Size Limit | Storage Time                            | Website                    |
 | :----------- | :----------- | :------------- | :-------------- | :-------------------------------------- | -------------------------: |
 | Mega         | Required     | 20 GB          |                 | unlimited                               | https://mega.io            |
@@ -20,6 +22,12 @@
 | Work Upload  | Not Required | unlimited      | 2 GB            | unlimited                               | https://workupload.com     |
 | Racaty       | Not Required | unlimited      | unlimited       | unlimited                               | https://racaty.net         |
 | Transfer     | Not Required | unlimited      | unlimited       | 14 days                                 | https://transfer.sh        |
+
+### Local File Sharing
+
+| Service | Website                  |
+| :------ | -----------------------: |
+| h5ai    | https://larsjung.de/h5ai |
 
 ## Shops
 
