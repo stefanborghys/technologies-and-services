@@ -31,3 +31,10 @@
 | Store    | Types                                                     | Website              |
 | -------- | --------------------------------------------------------- | -------------------- |
 | Deskreen | Turn any device into a secondary screen for your computer | https://deskreen.com |
+
+## Single Board Computer
+
+| Brand      | Types     | Website                   |
+| ---------- | --------- | ------------------------- |
+| Banana Pi  |           | https://www.banana-pi.org |
+| Urve Board |           | https://urveboard.com     |
