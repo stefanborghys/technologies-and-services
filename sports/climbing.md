@@ -14,13 +14,13 @@ Belgian Federation Of Indoor Climbing: https://www.bfic.be
 
 | Gym              | Location              | Boulder | Top Rope | Lead | Website                  |
 | ---------------- | --------------------- | :-----: | :------: | :--: | ------------------------ |
-| Petite Île       | Brussels - Anderlecht | x       |          |      | https://petite-ile.be    |
-| Arkose Canal     | Brussels              | x       |          |      | https://canal.arkose.com |
 | Blok             | Antwerpen - Hoboken   | x       |          |      | https://klimzaalblok.be  |
 | Beest Boulders   | Antwerpen             | x       |          |      | https://beestboulders.com/boulderen/beest-boulders-antwerpen |
-| Klimzaal Balance | Gent - Ledeberg       | x       |          |      | https://www.klimzaalbalance.be |
 | Rising You       | Antwerpen             | x       | x        | x    | https://club.risingyou.be |
 | The Island       | Antwerpen             | x       |          |      | https://boulderzaaltheisland.be |
+| Petite Île       | Brussels - Anderlecht | x       |          |      | https://petite-ile.be    |
+| Arkose Canal     | Brussels              | x       |          |      | https://canal.arkose.com |
+| Klimzaal Balance | Gent - Ledeberg       | x       |          |      | https://www.klimzaalbalance.be |
 
 ## Holds & walls
 
