@@ -21,6 +21,16 @@ Belgian Federation Of Indoor Climbing: https://www.bfic.be
 | Petite Île       | Brussels - Anderlecht | x       |          |      | https://petite-ile.be    |
 | Arkose Canal     | Brussels              | x       |          |      | https://canal.arkose.com |
 | Klimzaal Balance | Gent - Ledeberg       | x       |          |      | https://www.klimzaalbalance.be |
+| De Stordeur      | Leuven - Wilsele      | x       | x        | x    | https://destordeur.be |
+
+## Coaches
+
+## Belgium
+
+| Coach           | Website                        |
+| --------------- | ------------------------------ |
+| Motion Coaching | https://www.motion-coaching.be |
+
 
 ## Holds & walls
 
@@ -91,6 +101,7 @@ Belgian Federation Of Indoor Climbing: https://www.bfic.be
 | Monk              | https://monk.nl           |
 | Klimwinkel        | https://www.klimwinkel.nl |
 | Lecomte Alpirando | https://www.lecomte-alpirando.be |
+| Mounteq Shop      | https://www.mounteqshop.be |
 
 | Shop         | Website                    |
 | ------------ | -------------------------- |
