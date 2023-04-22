@@ -20,6 +20,12 @@
 | :------------ | :------------------------------------------------ | --------------------------: |
 | Magic Lantern | Software adding new features to Canon EOS cameras | https://www.magiclantern.fm |
 
+## Cloud Storage
+
+| Software | Description         | Website                 |
+| :------- | :------------------ | ----------------------: |
+| Smug Mug | Cloud photo storage | https://www.smugmug.com |
+
 ## Shops
 
 | Shop           | Description                      | Website                       |
