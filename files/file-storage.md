@@ -29,6 +29,12 @@
 | :------ | -----------------------: |
 | h5ai    | https://larsjung.de/h5ai |
 
+### File Synchronization
+
+| Service        | Description                                                                            | Website                  |
+| :------------- | :------------------------------------------------------------------------------------- | -----------------------: |
+| Free File Sync | Folder comparison & synchronization tool that creates & manages backup copies of files | https://freefilesync.org |
+
 ## Shops
 
 | Shop    | Description                     | Website               |
