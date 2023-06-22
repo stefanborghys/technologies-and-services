@@ -12,16 +12,27 @@ Belgian Federation Of Indoor Climbing: https://www.bfic.be
 
 ### Belgium
 
-| Gym              | Location              | Boulder | Top Rope | Lead | Website                  |
-| ---------------- | --------------------- | :-----: | :------: | :--: | ------------------------ |
-| Blok             | Antwerpen - Hoboken   | x       |          |      | https://klimzaalblok.be  |
-| Beest Boulders   | Antwerpen             | x       |          |      | https://beestboulders.com/boulderen/beest-boulders-antwerpen |
-| Rising You       | Antwerpen             | x       | x        | x    | https://club.risingyou.be |
-| The Island       | Antwerpen             | x       |          |      | https://boulderzaaltheisland.be |
-| Petite Île       | Brussels - Anderlecht | x       |          |      | https://petite-ile.be    |
-| Arkose Canal     | Brussels              | x       |          |      | https://canal.arkose.com |
-| Klimzaal Balance | Gent - Ledeberg       | x       |          |      | https://www.klimzaalbalance.be |
-| De Stordeur      | Leuven - Wilsele      | x       | x        | x    | https://destordeur.be |
+| Gym              | Location                    | Boulder | Top Rope | Lead | Website                  |
+| ---------------- | --------------------------- | :-----: | :------: | :--: | ------------------------ |
+| Blok             | Antwerpen - Hoboken         | x       |          |      | https://klimzaalblok.be  |
+| Beest Boulders   | Antwerpen                   | x       |          |      | https://beestboulders.com/boulderen/beest-boulders-antwerpen |
+| Rising You       | Antwerpen                   | x       | x        | x    | https://club.risingyou.be |
+| The Island       | Antwerpen                   | x       |          |      | https://boulderzaaltheisland.be |
+| Pink Peaks       | Vlaams Brabant - Grimbergen | x       | x        |      | https://www.pinkpeaks.be |
+| Petite Île       | Brussels - Anderlecht       | x       |          |      | https://petite-ile.be    |
+| Arkose Canal     | Brussels                    | x       |          |      | https://canal.arkose.com |
+| Padoue Maniak    | Brussels - Vorst            | x       | x        |      | https://padoue.maniak.club |
+| Klimzaal Balance | Gent - Ledeberg             | x       |          |      | https://www.klimzaalbalance.be |
+| De Stordeur      | Leuven - Wilsele            | x       | x        | x    | https://destordeur.be |
+
+## Associations
+
+### Belgium
+
+| Association              | Website             |
+| ------------------------ | ------------------- |
+| Bergsport Vlaams Brabant | https://www.bvlb.be |
+
 
 ## Coaches
 
