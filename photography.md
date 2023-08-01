@@ -7,6 +7,7 @@
 | Darktable    | Open source photography workflow app & raw developer | https://www.darktable.org   |
 | PTGui        | Panoramic image stitching software                   | https://ptgui.com           |
 | Raw Therapee | Free, cross-platform raw image processing program    | https://www.rawtherapee.com |
+| Digikam      | Prof Open Source Photo Management                    | https://www.digikam.org     |
 
 ## Print
 
