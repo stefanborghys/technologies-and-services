@@ -24,6 +24,8 @@ Belgian Federation Of Indoor Climbing: https://www.bfic.be
 | Padoue Maniak    | Brussels - Vorst            | x       | x        |      | https://padoue.maniak.club |
 | Klimzaal Balance | Gent - Ledeberg             | x       |          |      | https://www.klimzaalbalance.be |
 | De Stordeur      | Leuven - Wilsele            | x       | x        | x    | https://destordeur.be |
+| Monk             | Hasselt                     | x       |          |      | https://monk.nl/hasselt |
+| Olympia          | Hasselt                     | x       | x        |      | https://oly.be/muurklimmen |
 
 ## Associations
 
